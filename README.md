@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a work in progress
+
 <!--
 **veryheavypickle/veryheavypickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=veryheavypickle)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=veryheavypickle&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=veryheavypickle&langs_count=5&theme=tokyonight)]()
