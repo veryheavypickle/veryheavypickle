@@ -19,10 +19,34 @@ https://shields.io/ to make logos
 -->
 
 
-### Hi there 👋
+---
 
-This is a work in progress
+### :fire: My Stats :
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=veryheavypickle&count_private=true&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true">
+</div>
 
+<!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
+<div align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=veryheavypickle&hide_border=true&border_radius=100&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=EC6576&fire=EC6576&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555">
+</div>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veryheavypickle&layout=compact&langs_count=7e&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true">
+</div>
+
+---
+
+### :hammer_and_wrench: My Skills :
+<!-- https://github.com/tandpfun/skill-icons#icons-list -->
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,d3,dotnet,git,github,html,java,js,linux,md,mysql,processing,py,swift,tensorflow,vim,wordpress&perline=10">
+</div>
+
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=ae,ai,blender,sketchup">
+</div>
 <!--
 **veryheavypickle/veryheavypickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,7 +61,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=veryheavypickle&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=veryheavypickle&langs_count=5&theme=tokyonight)]()
