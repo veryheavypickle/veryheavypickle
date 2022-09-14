@@ -1,22 +1,21 @@
 <div id="header" align="center">
   <img src="media/profile-transparant.svg" width="100"/>
-</div>
-
-<!--
-https://shields.io/ to make logos
--->
-
-<div id="badges">
+  <div id="badges">
 	<a href="https://www.linkedin.com/in/xavier-carroll-456128250/">
 		<img src="https://img.shields.io/badge/LinkedIn-393C46?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://minimise.dev/">
-		<img src="https://img.shields.io/badge/minimise-dev-393C46?style=for-the-badge" alt=""/>
+		<img src="https://img.shields.io/badge/minimise-dev-393C46?style=for-the-badge&color=EC6576" alt=""/>
 	</a>
 	<a href="mailto:dev-yoda@proton.me">
 		<img src="https://img.shields.io/badge/dev--yoda@proton.me-393C46?style=for-the-badge&logo=ProtonMail" alt=""/>
 	</a>
 </div>
+</div>
+
+<!--
+https://shields.io/ to make logos
+-->
 
 
 ### Hi there 👋
