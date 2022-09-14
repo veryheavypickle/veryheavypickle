@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/badge/dev--yoda@proton.me-393C46?style=for-the-badge&logo=ProtonMail" alt=""/>
 	</a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=veryheavypickle&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=veryheavypickle&style=flat-square&color=EC6576" alt=""/>
 </div>
 
 <!--
