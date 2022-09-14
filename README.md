@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="media/profile-transparant.svg" width="100"/>
+</div>
+
+
 ### Hi there 👋
 
 This is a work in progress
