@@ -10,8 +10,8 @@
 	<a href="mailto:dev-yoda@proton.me">
 		<img src="https://img.shields.io/badge/dev--yoda@proton.me-393C46?style=for-the-badge&logo=ProtonMail" alt=""/>
 	</a>
-	<img src="https://komarev.com/ghpvc/?username=veryheavypickle&style=flat-square&color=blue" alt=""/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=veryheavypickle&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
