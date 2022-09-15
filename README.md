@@ -33,7 +33,7 @@ https://shields.io/ to make logos
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veryheavypickle&layout=compact&langs_count=7e&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veryheavypickle&layout=compact&langs_count=6e&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true">
 </div>
 
 ---
