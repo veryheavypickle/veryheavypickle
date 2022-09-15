@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="media/profile-transparant.svg" width="100"/>
   <div id="badges">
-	<a href="https://www.linkedin.com/in/xavier-carroll-456128250/">
+	<a href="https://www.linkedin.com/in/xcarroll/">
 		<img src="https://img.shields.io/badge/LinkedIn-393C46?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://minimise.dev/">
