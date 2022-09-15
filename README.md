@@ -1,3 +1,5 @@
+
+<!-- https://shields.io/ -->
 <div id="header" align="center">
   <img src="media/profile-transparant.svg" width="100"/>
   <div id="badges">
@@ -5,7 +7,7 @@
 		<img src="https://img.shields.io/badge/LinkedIn-393C46?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://minimise.dev/">
-		<img src="https://img.shields.io/badge/minimise-dev-393C46?style=for-the-badge&color=EC6576" alt=""/>
+		<img src="https://img.shields.io/badge/minimise-dev-393C46?style=for-the-badge&color=EC6576&labelColor=393C46" alt=""/>
 	</a>
 	<a href="mailto:dev-yoda@proton.me">
 		<img src="https://img.shields.io/badge/dev--yoda@proton.me-393C46?style=for-the-badge&logo=ProtonMail" alt=""/>
@@ -14,14 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=veryheavypickle&style=flat-square&color=EC6576" alt=""/>
 </div>
 
-<!--
-https://shields.io/ to make logos
--->
-
 
 ---
 
-### :fire: My Stats :
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=veryheavypickle&count_private=true&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true">
@@ -38,7 +35,6 @@ https://shields.io/ to make logos
 
 ---
 
-### :hammer_and_wrench: My Skills :
 <!-- https://github.com/tandpfun/skill-icons#icons-list -->
 <div align="center">
 	<img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,d3,dotnet,git,github,html,java,js,linux,md,mysql,processing,py,swift,tensorflow,vim,wordpress&perline=10">
