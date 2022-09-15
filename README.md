@@ -29,7 +29,7 @@ https://shields.io/ to make logos
 
 <!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=veryheavypickle&hide_border=true&border_radius=100&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=EC6576&fire=EC6576&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=veryheavypickle&hide_border=true&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=EC6576&fire=EC6576&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555">
 </div>
 
 <div align="center">
